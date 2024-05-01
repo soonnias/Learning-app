@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Програма_для_вивчення_нових_термінів.AccountManager" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>IAAAAACAAQAACAAAAAAAAAAAAQAAAAAAAIAAAAAgEIA=</HashCode>
+      <FileName>AllClasses\AccountManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.User" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAYAAAACAAAAAAAAAAAAACAAQQAAACAQIAAAAQAAE=</HashCode>
+      <FileName>AllClasses\User.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.StudySet" Collapsed="true">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAAAAAIAgAEQEgACAAABIAAAAAIAQAAAAAAAAAiA=</HashCode>
+      <FileName>AllClasses\StudySet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.LanguageStudySet" Collapsed="true">
+    <Position X="9" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAACAAAAAAEAACAAAAAEgAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\StudySet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.AppContext" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgAAIAAAAAAAAIAAAAAAAAAAAAAQAAACAAAAAA=</HashCode>
+      <FileName>AllClasses\AppContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.LearningTypeConstants">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\AppContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.ListExtensions">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>AllClasses\AppContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.Card" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAARAAAACAAEgAAAAAAABAAAEIAAEAAAAgABAiA=</HashCode>
+      <FileName>AllClasses\Card.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.Program" Collapsed="true">
+    <Position X="8.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>AllClasses\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.QuestionsClasses" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Програма_для_вивчення_нових_термінів.QuestionsClasses.AnswerForLearn">
+        <TypeIdentifier>
+          <NewMemberFileName>AllClasses\QuestionsClasses.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Програма_для_вивчення_нових_термінів.QuestionsClasses.QuestionForLearn" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AllClasses\QuestionsClasses.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Програма_для_вивчення_нових_термінів.QuestionsClasses.QuestionForWriting" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>AllClasses\QuestionsClasses.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\QuestionsClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Програма_для_вивчення_нових_термінів.ResultsMessage" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAwAAACkAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\ResultsMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Програма_для_вивчення_нових_термінів.IUser" Collapsed="true">
+    <Position X="8.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAAAAAAAAAAAACAAQQAAACAQAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\User.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Програма_для_вивчення_нових_термінів.MessageType">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAABAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllClasses\AppContext.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Програма_для_вивчення_нових_термінів.ProgramState">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAIAAAAAQAAAAA=</HashCode>
+      <FileName>AllClasses\AppContext.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

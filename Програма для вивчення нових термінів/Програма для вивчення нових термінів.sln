@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Програма для вивчення нових термінів", "Програма для вивчення нових термінів\Програма для вивчення нових термінів.csproj", "{27142E9E-53D5-48EF-8A46-8CD025F76142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27142E9E-53D5-48EF-8A46-8CD025F76142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27142E9E-53D5-48EF-8A46-8CD025F76142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27142E9E-53D5-48EF-8A46-8CD025F76142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27142E9E-53D5-48EF-8A46-8CD025F76142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E67241F0-DFFF-490B-9D9D-D28C7E29E503}
+	EndGlobalSection
+EndGlobal
